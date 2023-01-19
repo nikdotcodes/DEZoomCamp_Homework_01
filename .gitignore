@@ -1,3 +1,4 @@
 data_in/*
 ny_taxi_postgres_data/*
 .idea/
+.env
