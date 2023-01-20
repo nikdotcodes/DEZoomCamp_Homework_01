@@ -1,0 +1,1 @@
+docker run -it --network=dezoomcamp_homework_01_default ingest_csv:v0.3     --user=nik     --password=nik     --host=dezoomcamp_homework_01_postgres_1     --port=5432     --db=ny_taxi     --tbl=green_tripdata     --url=$URL
